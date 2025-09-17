@@ -1,0 +1,45 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Rodopoulos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
+<h2 align="center">Rodopoulos | Developer</h2>
+<p align="center">From Brazil 🇧🇷</p>
+
+---
+
+## About Me
+- Development in **C# for Counter-Strike 2 plugins**  
+- Development in **SourcePawn for Counter-Strike: Global Offensive plugins**  
+- Experience with **Python** for Discord bots and automation  
+- Focused on gaming servers, community building, and custom systems  
+
+---
+
+## Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,discord,github,vscode,visualstudio,mysql,sqlite" />
+</p>
+
+---
+
+## Featured Projects
+- **CS2 Plugins (C#)** – gameplay mechanics, server systems, and integrations  
+- **CSGO Plugins (SourcePawn)** – VIP systems, match tools, custom features  
+- **Discord Bots (Python)** – verification, automation, utilities  
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodopoulos&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodopoulos&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+## Connect
+- **Discord (personal):** Rodopoulos  
+- **Discord (Nexora Network – CS2 servers):** [Join here](https://discord.gg/UM4FJPVc6k)  
+- **GitHub:** [Rodopoulos](https://github.com/rodopoulos1)  
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=150&section=footer)
