@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Counter_Strike_2_Logo.png" height="48" alt="CS2 logo" />
-  <img src="https://vhv.rs/dpng/d/554-5546632_counter-strike-global-offensive-png-transparent-png.png" height="48" alt="CSGO logo" />
+  <img src="assets/cs2.png" height="48" alt="CS2 logo" />
+  <img src="assets/csgo.png" height="48" alt="CSGO logo" />
 </p>
 
 ---
