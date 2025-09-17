@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Rodopoulos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Rodopoulos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <h2 align="center">Rodopoulos | Developer</h2>
 <p align="center">From Brazil 🇧🇷</p>
@@ -29,8 +31,8 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodopoulos&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodopoulos&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodopoulos1&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodopoulos1&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
