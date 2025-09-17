@@ -17,7 +17,12 @@
 
 ## Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,discord,github,vscode,visualstudio,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,discord,github,vscode,mysql,sqlite" />
+</p>
+
+<p align="center">
+  <img src="https://cdn2.steamgriddb.com/icon/3d00e7e5a4a26a.png" height="48" alt="CS2 logo" />
+  <img src="https://cdn2.steamgriddb.com/icon/7a344b29fce9dc.png" height="48" alt="CSGO logo" />
 </p>
 
 ---
