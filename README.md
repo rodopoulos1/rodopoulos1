@@ -49,4 +49,6 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=150&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=150&section=footer" />
+</p>
