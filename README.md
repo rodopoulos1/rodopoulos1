@@ -28,9 +28,9 @@
 ---
 
 ## Featured Projects
-- **CS2 Plugins (C#)** – gameplay mechanics, server systems, and integrations  
-- **CSGO Plugins (SourcePawn)** – VIP systems, match tools, custom features  
-- **Discord Bots (Python)** – verification, automation, utilities  
+- **CS2 Plugins (C#)** – Plugins in general
+- **CSGO Plugins (SourcePawn)** – Plugins in general
+- **Discord Bots (Python)** – Automation, Utilities, etc.
 
 ---
 
