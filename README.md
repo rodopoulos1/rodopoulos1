@@ -51,10 +51,10 @@ Multiple bots in production: giveaways, tickets, shops, sales, and community uti
 - **250,000+ lines** across all projects
 - Stack: Python, discord.py, MySQL, SQLite
 
-### 🌍 Personal Portfolio & Key System
-Full-stack portfolio with product key sales system, admin dashboard with 2FA, and analytics.
+### 🌍 Personal Portfolio
+Developer portfolio and integrated product key sales system.
 - Stack: PHP, JavaScript, MySQL, Nginx
-- Live: [dev.rodopoulos.xyz](https://dev.rodopoulos.xyz)
+- Live: [dev.rodopoulos.xyz](https://dev.rodopoulos.xyz) — [Key System](https://dev.rodopoulos.xyz/bots/)
 
 ---
 
