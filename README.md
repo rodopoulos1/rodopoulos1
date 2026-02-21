@@ -39,7 +39,7 @@ Started with curiosity about code — it turned into passion. **100% self-taught
 Full online casino platform built from scratch. Game systems, accounts, balance, admin panel — everything proprietary.
 - **150,000+ lines of code**
 - Stack: PHP, JavaScript, MySQL, HTML/CSS
-- [Discord do projeto](https://discord.gg/B6URU8vBh8)
+- [Discord Project](https://discord.gg/B6URU8vBh8)
 
 ### 🎮 CS2 Plugins (C#)
 Custom plugins for Counter-Strike 2. Delivered a complete rank + events system for a client.
