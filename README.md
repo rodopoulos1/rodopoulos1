@@ -61,8 +61,15 @@ Full-stack portfolio with product key sales system, admin dashboard with 2FA, an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodopoulos1&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodopoulos1&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d" height="150" />
+  <img src="https://streak-stats.demolab.com?user=rodopoulos1&theme=radical&hide_border=true&background=0d0d0d&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rodopoulos1&theme=radical&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodopoulos1&theme=react-dark&bg_color=0d0d0d&color=3b82f6&line=3b82f6&point=ffffff&hide_border=true" />
 </p>
 
 ---
