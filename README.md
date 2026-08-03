@@ -82,10 +82,10 @@ Custom plugins for Counter-Strike 2. Delivered a complete rank + events system f
 
 ### 🌍 Personal Portfolio
 
-Developer portfolio and integrated product key sales system.
+Developer portfolio 
 
 - Stack: PHP, JavaScript, MySQL, Nginx
-- Live: [dev.rodopoulos.xyz](https://dev.rodopoulos.xyz) — [Key System](https://dev.rodopoulos.xyz/bots/)
+- Live: [dev.rodopoulos.xyz](https://dev.rodopoulos.xyz)
 
 ---
 
